@@ -1,0 +1,5 @@
+export { Footer } from './Footer'
+export { Header } from './Header'
+export { LatestPosts } from './LatestPosts'
+export { Newsletter } from './Newsletter'
+export { SocialMedia } from './SocialMedia'

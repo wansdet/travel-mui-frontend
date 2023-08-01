@@ -1,0 +1,5 @@
+export { Home } from './home/Home'
+export { PlaceIndex } from './place/PlaceIndex'
+export { PlaceShow } from './place/PlaceShow'
+export { RegionIndex } from './region/RegionIndex'
+export { RegionShow } from './region/RegionShow'
